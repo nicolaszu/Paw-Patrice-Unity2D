@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="72.671043mm"
+   height="36.702728mm"
+   viewBox="0 0 72.671042 36.702728"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="machine.svg">
+  <defs
+     id="defs2">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="244.23105"
+     inkscape:cy="185.62686"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="689"
+     inkscape:window-x="683"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.213872,-161.24438)">
+    <path
+       id="path193"
+       d="m 41.600975,193.9678 h 71.817965 v 3.97931 H 41.600975 Z"
+       style="fill:#ac9d93;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path195"
+       d="m 41.600975,193.9678 h 71.817965 l -4.1698,-2.45531 -64.049859,-0.1905 z"
+       style="fill:#6c5d53;fill-opacity:1;fill-rule:nonzero;stroke:#6c5d53;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path197"
+       d="m 51.125904,161.24438 h 52.387116 c 1.24882,0 2.26481,1.01599 2.26481,2.26482 v 27.26246 c 0,1.26999 -1.01599,2.28598 -2.26481,2.28598 H 51.125904 c -1.26999,0 -2.264817,-1.01599 -2.264817,-2.28598 V 163.5092 c 0,-1.24883 0.994827,-2.26482 2.264817,-2.26482 z"
+       style="fill:#917c6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path199"
+       d="m 49.199752,161.37138 h 52.387108 c 1.26999,0 2.28599,0.99483 2.28599,2.26482 v 27.26246 c 0,1.24882 -1.016,2.26482 -2.28599,2.26482 H 49.199752 c -1.248824,0 -2.264817,-1.016 -2.264817,-2.26482 V 163.6362 c 0,-1.26999 1.015993,-2.26482 2.264817,-2.26482 z"
+       style="fill:#c8beb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path201"
+       d="m 51.718566,163.27636 h 47.455316 c 1.333488,0 2.391818,1.05833 2.391818,2.39182 v 23.55833 c 0,1.33349 -1.05833,2.41298 -2.391818,2.41298 H 51.718566 c -1.33349,0 -2.391815,-1.07949 -2.391815,-2.41298 v -23.55833 c 0,-1.33349 1.058325,-2.39182 2.391815,-2.39182 z"
+       style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path203"
+       d="m 51.909065,165.54118 -0.190499,4.33914 44.682502,-0.74083"
+       style="fill:none;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path205"
+       d="m 67.889779,180.35774 -15.684383,0.0847 42.989182,-0.46566"
+       style="fill:none;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path207"
+       d="m 51.718566,169.88032 c 0,0 1.608655,-2.83632 2.349483,-2.45532 0.761994,0.381 0.677328,1.03716 1.037159,1.33349 0.380997,0.27517 0.571496,-2.45531 1.227657,-2.64581 0.677329,-0.1905 0.48683,2.53998 1.058326,2.83631 0.550329,0.27516 0.550329,-0.5715 1.693321,-0.67733 1.121825,-0.0847 3.301975,0.86783 4.254468,0.48683 0.931327,-0.381 3.111477,-2.45531 3.958138,-2.75165 0.846661,-0.27516 1.333489,1.79916 2.095484,2.26482 0.740828,0.48683 2.074317,-0.46566 2.920979,-0.84666 0.846661,-0.381 3.301976,-0.84666 4.254468,-0.381 0.931325,0.48683 -0.105833,0.86783 0.656161,1.143 0.761995,0.27516 1.502823,-1.50283 1.693321,-2.37065 0.1905,-0.84666 1.523989,-0.55033 1.523989,0.57149 0,1.14299 0.656161,2.56115 1.502823,2.07432 0.846661,-0.46566 1.333489,-1.41816 2.836312,-1.41816 1.523989,0 1.333489,2.09549 2.836312,1.41816 1.523989,-0.65616 2.561148,-3.38664 4.339135,-3.00564 1.799153,0.35983 4.444966,3.68297 4.444966,3.68297 v 0"
+       style="fill:none;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path209"
+       d="m 97.692226,167.65783 1.502823,1.12183 0.973661,-1.016 c 0,0 1.07949,-1.18532 1.05832,-1.84148 -0.0423,-0.95249 -1.883817,-1.07949 -2.116648,-0.40217 -0.127,0.3175 0.04233,0.6985 0.04233,0.6985 0,0 -0.08467,-0.71966 -0.973662,-0.82549 -0.888992,-0.0847 -1.375822,0.52916 -1.375822,0.52916 -0.0635,0.69849 0.888994,1.73565 0.888994,1.73565 z"
+       style="fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:#ff2a2a;stroke-width:0.10583255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path211"
+       d="m 52.205396,180.4424 -0.126999,-5.10112 c 0,0 1.354657,4.40263 1.735654,4.40263 0.402164,0 0.550329,-0.80433 0.804327,-1.05833 0.275165,-0.27516 0.613829,0.93133 0.613829,0.93133 l 1.523989,-3.15381 0.952493,3.09031 0.592662,-0.86783 0.465663,0.65617 0.931327,-0.65617 0.613828,0.78317 1.121825,-4.27564 1.418157,4.02164 0.867826,-0.67733 0.317498,0.74083 4.212135,-1.67216 2.01082,1.54516 1.269989,-0.74083 0.529164,0.65616 1.015993,-0.86783 0.317497,0.67733 3.619473,-4.00047 5.609125,4.06397 4.212135,-3.00564"
+       style="fill:none;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path213"
+       d="M 92.50643,177.54259 90.305115,176.4631 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path215"
+       d="m 86.833806,175.93394 2.074317,1.54515 1.396992,-1.01599"
+       style="fill:none;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path217"
+       d="m 63.381313,187.42735 h 1.058326 c 1.037159,0 1.883819,0.8255 1.883819,1.86265 0,1.03717 -0.84666,1.88382 -1.883819,1.88382 h -1.058326 c -1.037159,0 -1.883819,-0.84665 -1.883819,-1.88382 0,-1.03715 0.84666,-1.86265 1.883819,-1.86265 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.16933209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path219"
+       d="m 71.001258,187.55435 h 4.275635 c 0.952492,0 1.735653,0.78316 1.735653,1.73565 0,0.97367 -0.783161,1.75683 -1.735653,1.75683 h -4.275635 c -0.973661,0 -1.735656,-0.78316 -1.735656,-1.75683 0,-0.95249 0.761995,-1.73565 1.735656,-1.73565 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.16933209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path221"
+       d="m 81.478679,187.30035 h 2.412981 c 0.931328,0 1.672156,0.74083 1.672156,1.67216 0,0.91016 -0.740828,1.67215 -1.672156,1.67215 h -2.412981 c -0.910159,0 -1.672154,-0.76199 -1.672154,-1.67215 0,-0.93133 0.761995,-1.67216 1.672154,-1.67216 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.16933209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Chloe\machine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
