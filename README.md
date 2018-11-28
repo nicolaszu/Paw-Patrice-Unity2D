@@ -2,7 +2,7 @@
 
 ### Compatible with Unity 5.5.1f1, has not been tested with newer versions.
 
-[Game Trailer](www.youtube.com/watch?v=9og0A5nCCKo)
+[Game Trailer](https://www.youtube.com/watch?v=9og0A5nCCKo)
 
 Hospitals are daunting places patients of all ages, but especially for children. One way to make medical examinations less intimidating is to explain to patients what will happen. It can be very difficult to explain to small children what will happen though. The purpose of this game is to explain to small children (2-6 years old) what happens at an examination in the Nuclear Medicine Department of Chelsea & Westminster Hospital.
 
