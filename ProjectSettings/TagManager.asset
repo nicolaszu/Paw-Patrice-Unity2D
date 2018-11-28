@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Z
+  - Bubble
+  - DMSA
+  - Meckel
+  - RENOGRAMin
+  - RENOGRAM
+  - FoodEndpoint
+  - Collectable
+  - Bamboo
+  - Cube
+  - Food
+  - GameProcedure
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sun
+  - Moon
+  - SunAndMoonCollider
+  - panda
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 808886409
+    locked: 0
+  - name: Sun
+    uniqueID: 676107433
+    locked: 0
+  - name: Background
+    uniqueID: 1758231223
+    locked: 0
+  - name: PandaBehindPainting
+    uniqueID: 192753055
+    locked: 0
+  - name: Painting
+    uniqueID: 3962939297
+    locked: 0
+  - name: Button
+    uniqueID: 2030200659
+    locked: 0
+  - name: Bed
+    uniqueID: 2430769171
+    locked: 0
+  - name: Objects
+    uniqueID: 517131919
+    locked: 0
+  - name: Table
+    uniqueID: 1652436031
+    locked: 0
+  - name: Tank
+    uniqueID: 3940145545
+    locked: 0
+  - name: fish
+    uniqueID: 2406800769
+    locked: 0
+  - name: Speech
+    uniqueID: 1199593833
+    locked: 0
+  - name: Z
+    uniqueID: 1553438299
+    locked: 0
+  - name: Text
+    uniqueID: 1042668685
+    locked: 0
+  - name: NeedleBit
+    uniqueID: 3547253981
+    locked: 0
+  - name: Panda
+    uniqueID: 678995621
+    locked: 0
+  - name: Target
+    uniqueID: 3026934063
+    locked: 0
+  - name: InjectionCharacter
+    uniqueID: 1147285597
+    locked: 0
+  - name: Fade
+    uniqueID: 1874301565
+    locked: 0
